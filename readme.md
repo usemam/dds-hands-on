@@ -3,3 +3,5 @@
 ### List of implemented patterns
 * Ambassador
 * Adapter
+* Replicated Load-Balanced Service
+* Sharded Service
