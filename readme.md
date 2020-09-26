@@ -4,4 +4,4 @@
 * Ambassador
 * Adapter
 * Replicated Load-Balanced Service
-* Sharded Service
+* Ownership Election
